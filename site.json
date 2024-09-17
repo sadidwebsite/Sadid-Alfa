@@ -122,6 +122,14 @@
             "type": "image/png",
             "name": "3.png",
             "size": 95467
+          },
+          {
+            "path": "[object Object]4.png",
+            "fullUrl": "//home/sadidwebsite/Sadid-Alfa/files/4.png",
+            "url": "files/4.png",
+            "type": "image/png",
+            "name": "4.png",
+            "size": 90203
           }
         ],
         "hideInMenu": false,
