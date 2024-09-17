@@ -130,6 +130,14 @@
             "type": "image/png",
             "name": "4.png",
             "size": 90203
+          },
+          {
+            "path": "[object Object]423b80dde2bd8f63f39a9adb3a76fbb3-4.png",
+            "fullUrl": "//home/sadidwebsite/Sadid-Alfa/files/423b80dde2bd8f63f39a9adb3a76fbb3-4.png",
+            "url": "files/423b80dde2bd8f63f39a9adb3a76fbb3-4.png",
+            "type": "image/png",
+            "name": "423b80dde2bd8f63f39a9adb3a76fbb3-4.png",
+            "size": 90203
           }
         ],
         "hideInMenu": false,
