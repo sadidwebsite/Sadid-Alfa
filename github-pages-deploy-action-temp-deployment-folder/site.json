@@ -80,11 +80,11 @@
       "slug": "page",
       "order": 1,
       "parent": null,
-      "title": "Page",
+      "title": "Download Game Saya",
       "description": "\n\n",
       "metadata": {
         "created": 1723216766,
-        "updated": 1723217275,
+        "updated": 1726536296,
         "images": {},
         "videos": {},
         "published": true,
@@ -98,6 +98,70 @@
             "type": "image/jpeg",
             "name": "449209895_10132275882878874_6858206363295672221_n.jpg",
             "size": 45592
+          },
+          {
+            "path": "[object Object]1.png",
+            "fullUrl": "//home/sadidwebsite/Sadid-Alfa/files/1.png",
+            "url": "files/1.png",
+            "type": "image/png",
+            "name": "1.png",
+            "size": 78478
+          },
+          {
+            "path": "[object Object]2.png",
+            "fullUrl": "//home/sadidwebsite/Sadid-Alfa/files/2.png",
+            "url": "files/2.png",
+            "type": "image/png",
+            "name": "2.png",
+            "size": 81281
+          },
+          {
+            "path": "[object Object]3.png",
+            "fullUrl": "//home/sadidwebsite/Sadid-Alfa/files/3.png",
+            "url": "files/3.png",
+            "type": "image/png",
+            "name": "3.png",
+            "size": 95467
+          },
+          {
+            "path": "[object Object]4.png",
+            "fullUrl": "//home/sadidwebsite/Sadid-Alfa/files/4.png",
+            "url": "files/4.png",
+            "type": "image/png",
+            "name": "4.png",
+            "size": 90203
+          },
+          {
+            "path": "[object Object]423b80dde2bd8f63f39a9adb3a76fbb3-4.png",
+            "fullUrl": "//home/sadidwebsite/Sadid-Alfa/files/423b80dde2bd8f63f39a9adb3a76fbb3-4.png",
+            "url": "files/423b80dde2bd8f63f39a9adb3a76fbb3-4.png",
+            "type": "image/png",
+            "name": "423b80dde2bd8f63f39a9adb3a76fbb3-4.png",
+            "size": 90203
+          },
+          {
+            "path": "[object Object]1e06dbbb7557b84db4476594c59a6b3a-3.png",
+            "fullUrl": "//home/sadidwebsite/Sadid-Alfa/files/1e06dbbb7557b84db4476594c59a6b3a-3.png",
+            "url": "files/1e06dbbb7557b84db4476594c59a6b3a-3.png",
+            "type": "image/png",
+            "name": "1e06dbbb7557b84db4476594c59a6b3a-3.png",
+            "size": 95467
+          },
+          {
+            "path": "[object Object]d0ee7618f4bef011ebe462940ac02d70-2.png",
+            "fullUrl": "//home/sadidwebsite/Sadid-Alfa/files/d0ee7618f4bef011ebe462940ac02d70-2.png",
+            "url": "files/d0ee7618f4bef011ebe462940ac02d70-2.png",
+            "type": "image/png",
+            "name": "d0ee7618f4bef011ebe462940ac02d70-2.png",
+            "size": 81281
+          },
+          {
+            "path": "[object Object]3b4cf3a6412578745c503b8b886520f7-1.png",
+            "fullUrl": "//home/sadidwebsite/Sadid-Alfa/files/3b4cf3a6412578745c503b8b886520f7-1.png",
+            "url": "files/3b4cf3a6412578745c503b8b886520f7-1.png",
+            "type": "image/png",
+            "name": "3b4cf3a6412578745c503b8b886520f7-1.png",
+            "size": 78478
           }
         ],
         "hideInMenu": false,
