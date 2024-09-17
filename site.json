@@ -98,6 +98,14 @@
             "type": "image/jpeg",
             "name": "449209895_10132275882878874_6858206363295672221_n.jpg",
             "size": 45592
+          },
+          {
+            "path": "[object Object]1.png",
+            "fullUrl": "//home/sadidwebsite/Sadid-Alfa/files/1.png",
+            "url": "files/1.png",
+            "type": "image/png",
+            "name": "1.png",
+            "size": 78478
           }
         ],
         "hideInMenu": false,
